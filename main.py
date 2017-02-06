@@ -159,7 +159,7 @@ page_header = """
     </style>
 </head>
 <body>
-<h1>SignUp</h1>
+
 """
 
 class Welcome(webapp2.RequestHandler):
